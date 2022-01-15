@@ -4,3 +4,6 @@
 
 #Prerequistes for the script is nmap should be installed before.
 
+#Check your path/folder to find scanning results which will be saved as finalresults.txt
+Thank you, Happy hacking :)
+
